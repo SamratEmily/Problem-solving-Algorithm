@@ -1,1 +1,1 @@
-# Algorithm---Problem-solving
+# Algorithm:Problem-solving
